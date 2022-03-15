@@ -1,6 +1,5 @@
 # MergeConflicts
 
-## Conflicts
+# This is my change - Anders
 
-* Nothing
-* 
+##This is a merge conflict exercise
