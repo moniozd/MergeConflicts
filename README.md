@@ -1,1 +1,5 @@
 # MergeConflicts
+
+## Conflicts
+
+* Nothing
